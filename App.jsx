@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { supabase } from './lib/supabase';
+import { supabase } from './supabase.js';
 import {
   Trophy, Shield, Users, Swords, Medal, Menu, X, Globe, LogIn,
   UserPlus, ChevronLeft, CalendarDays, Zap, ChartNoAxesColumnIncreasing,
